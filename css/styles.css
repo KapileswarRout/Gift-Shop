@@ -148,7 +148,7 @@ body{
 #hero{
     height: 90vh;
     width: 100%;
-    background-image: url(./images/homeBanner.jpg);
+    background-image: url(../images/homeBanner.jpg);
     background-position: top 25% right 5%;
     background-size: cover;
     padding: 0 180px;
